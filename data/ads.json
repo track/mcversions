@@ -1,0 +1,11 @@
+{
+    "sites": {
+        "bazaartracker.com": {
+            "advertiser": {
+                "name": "SparkedHost",
+                "image_url": "https://sparkedhost.com/assets/img/Comp-1_7.gif",
+                "link_to": "https://sparkedhost.marketing/click/add.php?campaign=bzr"
+            }
+        }
+    }
+}
