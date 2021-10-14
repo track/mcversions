@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="21w41a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="21w40a" versionType="SNAPSHOT" protocolVersion="NaN"/>
   <minecraftVersion versionName="21w39a" versionType="SNAPSHOT" protocolVersion="NaN"/>
   <minecraftVersion versionName="21w38a" versionType="SNAPSHOT" protocolVersion="NaN"/>
   <minecraftVersion versionName="21w37a" versionType="SNAPSHOT" protocolVersion="NaN"/>
