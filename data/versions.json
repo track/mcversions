@@ -1,5 +1,20 @@
 [
   {
+    "version_name": "1.18.2-pre1",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": null
+  },
+  {
+    "version_name": "22w07a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "22w06a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
     "version_name": "22w05a",
     "version_type": "SNAPSHOT",
     "protocol_version": null
