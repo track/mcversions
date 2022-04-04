@@ -1,5 +1,25 @@
 [
   {
+    "version_name": "22w13oneblockatatime",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "22w13a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "22w12a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "22w11a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
     "version_name": "1.18.2",
     "version_type": "RELEASE",
     "protocol_version": 758
