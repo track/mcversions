@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.19.1-pre1",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": null
+  },
+  {
     "version_name": "22w24a",
     "version_type": "SNAPSHOT",
     "protocol_version": null
