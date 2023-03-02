@@ -1,5 +1,21 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="1.19.4-pre2" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="1.19.4-pre1" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="23w07a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="23w06a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="23w05a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="23w04a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="23w03a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="1.19.3" versionType="RELEASE" protocolVersion="761"/>
+  <minecraftVersion versionName="1.19.3-pre3" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="1.19.3-pre2" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="1.19.3-pre1" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="22w46a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="22w45a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="22w44a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="22w43a" versionType="SNAPSHOT" protocolVersion="NaN"/>
+  <minecraftVersion versionName="22w42a" versionType="SNAPSHOT" protocolVersion="NaN"/>
   <minecraftVersion versionName="1.19.2" versionType="RELEASE" protocolVersion="760"/>
   <minecraftVersion versionName="1.19.1" versionType="RELEASE" protocolVersion="760"/>
   <minecraftVersion versionName="1.19.1-pre6" versionType="PRE_RELEASE" protocolVersion="NaN"/>
