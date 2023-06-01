@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="1.20-pre7" versionType="PRE_RELEASE" protocolVersion="NaN"/>
+  <minecraftVersion versionName="1.20-pre6" versionType="PRE_RELEASE" protocolVersion="NaN"/>
   <minecraftVersion versionName="1.20-pre5" versionType="PRE_RELEASE" protocolVersion="NaN"/>
   <minecraftVersion versionName="1.20-pre4" versionType="PRE_RELEASE" protocolVersion="NaN"/>
   <minecraftVersion versionName="1.20-pre3" versionType="PRE_RELEASE" protocolVersion="NaN"/>
