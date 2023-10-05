@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "23w40a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
     "version_name": "1.20.2",
     "version_type": "RELEASE",
     "protocol_version": 764
